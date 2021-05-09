@@ -1,0 +1,8 @@
+To install XAMPP, follow this link
+	https://vitux.com/ubuntu-xampp/
+
+To install Flask-MySQL library in the system-
+	pip install Flask-MySQL
+or
+	pip install flask-mysqldb
+(depending on the version)
