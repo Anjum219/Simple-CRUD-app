@@ -1,6 +1,9 @@
 To install XAMPP, follow this link
 	https://vitux.com/ubuntu-xampp/
 
+To start XAMPP
+	sudo /opt/lampp/lampp start
+
 To install Flask-MySQL library in the system-
 	pip install Flask-MySQL
 or
